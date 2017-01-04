@@ -1,0 +1,7 @@
+#Column1:ClusterSize(number of Atoms contained) #Column2:ClusterNumber #Column3:portion #Column4:ln(portion) #Column5:Total Atoms# in this sized cluster #Column6:atom portion
+1 863 0.861277 -0.149339 863 0.730118
+2 110 0.109780 -2.209273 220 0.186125
+3 24 0.023952 -3.731699 72 0.060914
+4 3 0.002994 -5.811141 12 0.010152
+6 1 0.000998 -6.909753 6 0.005076
+9 1 0.000998 -6.909753 9 0.007614

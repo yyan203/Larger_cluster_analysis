@@ -1,0 +1,1 @@
+g++ -g Cluster_probability_all_frame_all_debris.cxx event.cpp function.cpp -o For_truncated_cone
